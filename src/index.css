@@ -72,12 +72,11 @@ input, input:focus, input:active, input:hover{
 }
 
 .todo__item_add{
-  border: 1px solid #fff;
-  background-color: #363644;
+  border:  1px solid #363644;
   display: flex;
   margin: 10px;
   border-radius: 10px;
-  padding: 15px 10px;
+  padding: 10px 10px;
   align-items: center;
   justify-content: center;
   width: 70%;
